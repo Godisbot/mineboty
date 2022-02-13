@@ -1,0 +1,12 @@
+{
+    "ip": "Tagigang.aternos.me",
+    "port": "26595",
+    "name": "katy",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "true",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "",
+    "auto-reconnect": "true"
+}
