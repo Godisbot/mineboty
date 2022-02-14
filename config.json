@@ -7,6 +7,5 @@
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "",
-    "auto-reconnect": "false"
+    "loginmsg": "hi"
 }
