@@ -8,5 +8,5 @@
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
     "loginmsg": "",
-    "auto-reconnect": "true"
+    "auto-reconnect": "false"
 }
