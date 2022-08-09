@@ -1,11 +1,11 @@
 {
-    "ip": "Tagigang.aternos.me",
-    "port": "26595",
+    "ip": "00001817.aternos.me",
+    "port": "43337",
     "name": "katy",
-    "auto-night-skip": "false",
+    "auto-night-skip": "true",
     "prefix": "",
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "hi"
+    "loginmsg": "hi fireload "
 }
